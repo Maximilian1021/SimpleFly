@@ -1,0 +1,12 @@
+name: SimpleFly
+version: 2.1
+author: Maximilian1021
+website: https://game-energy.de
+
+
+main: me.Maximilian1021.main.main
+
+commands:
+  fly:
+    description: Wechsel dein Gamemode
+    usage: /<command>
